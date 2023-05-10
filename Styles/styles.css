@@ -1,0 +1,52 @@
+/* Fuentes */
+body {
+    font-family: Arial, sans-serif;
+  }
+  
+  h1, h2, h3 {
+    font-weight: bold;
+  }
+  
+  /* Colores */
+  body {
+    background-color: #f8f8f8;
+    color: #333;
+  }
+  
+  header, footer {
+    background-color: #333;
+    color: #f8f8f8;
+  }
+  
+  /* Tamaños y espaciados */
+  header {
+    padding: 20px;
+  }
+  
+  main {
+    padding: 20px;
+    margin: 20px 0;
+  }
+  
+  footer {
+    padding: 10px;
+    text-align: center;
+  }
+  
+  /* Otros estilos */
+  a {
+    color: #0066cc;
+    text-decoration: none;
+  }
+  
+  a:hover {
+    text-decoration: underline;
+  }
+  
+  /* Media queries */
+  @media (max-width: 768px) {
+    header {
+      text-align: center;
+    }
+  }
+  
